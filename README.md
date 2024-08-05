@@ -1,4 +1,4 @@
-# Playing Pong on an FPGA
+# Playing Pong on an FPGA and VGA Monitor
 Fun RTL design project coded in Verilog involving buttons, 7-segment displays, UART receiver, and VGA \
 FPGA used is an iCE40 HX1K by Lattice Semiconductor. Synthesized code using Lattice's iCEcube2 software and Diamond Programmer \
 \
