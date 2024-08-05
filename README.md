@@ -4,4 +4,4 @@ FPGA used is an iCE40 HX1K by Lattice Semiconductor. Synthesized code using Latt
 \
 ![](https://github.com/tylerchang/FPGA_Pong/blob/main/pong_fpga.gif)\
 \
-YouTube demonstration video: [https://www.youtube.com/watch?v=YQB4LM7P4X8&t=2s](https://www.youtube.com/watch?v=YQB4LM7P4X8&t=2s)
+Demonstration video: [https://www.youtube.com/watch?v=YQB4LM7P4X8&t=2s](https://www.youtube.com/watch?v=YQB4LM7P4X8&t=2s)
